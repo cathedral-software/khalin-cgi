@@ -1,0 +1,45 @@
+/* Stylesheet for index.html
+ * This document is properety of the Khalin Server user
+ * tomeu. The next information is just for administratively
+ * purposes.
+ * Server: SRV1LA (xampp-linux=lampp)
+ * Root: /opt/lampp/htdocs
+ * UPath: /opt/lampp/htdocs/~tomeu
+ * User: tomeu
+ * UDir: /home/tomeu
+ */
+body {
+	background-color:#FFA54F;
+	font-family: "DejaVu Sans", sans-serif;
+	font-size: 90%;
+}
+.logov {
+	float: right;
+}
+img.centered {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border: 2px solid;
+}
+.caption {
+	text-align: center;
+	font-style: italic;
+	font-family: serif;
+}
+h1,h2,h3,h4,h5,h6 {
+	font-family: sans-serif;
+	text-align: center;
+}
+p.fanatic {
+	font-family: "Ubuntu", "DejaVu Sans", sans-serif;
+}
+a.plainlinks {
+	text-decoration: none;
+}
+.strike {
+	text-decoration: line-through;
+}
+input[type="radio"] {
+float:left;
+}
